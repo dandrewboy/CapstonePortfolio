@@ -36,6 +36,6 @@
 - VMware Workstation Player v16.1.1
 > Note: I had to use VMware due to some technical difficulties during development and therfore not required to run the application
 ## Technical Approach
-
+![Wireframes for the three forms](https://github.com/dandrewboy/CapstonePortfolio/blob/main/DockerGUI%20V.2.png)
 ## Risks & Challenges
 ## Outstanding Issues
