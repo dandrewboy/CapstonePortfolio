@@ -1,4 +1,4 @@
-# CapstonePortfolio
+# DockerGUI
 ## Abstract
   The main goal this project aims to achieve is to offer a solution to helping use and manage the Docker software. Docker normally runs off the command line, which to some users can be difficult to use if they’re not familiar with using the command line. It also becomes difficult to manage multiple containers at the same time. With this project a user can open a container for any project they might have and manage and organize multiple containers being able to create containers for additional projects and delete containers for project they have since finished working on. 
 ## High Level/Non-Functional Requirments
