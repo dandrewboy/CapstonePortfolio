@@ -31,7 +31,8 @@
 - Visual Studio 2019 v16.8.4
 - .NET Core v5.0
 - .NET Framework v3.0
-> Note: These where used to support the specific C# framework I was using for the application.
+> Note: >NET Core & .NET Framework where used to support the specific C# framework I was using for the application.
+> A version not using C# or the .NET framework would not need these to run the application
 - VMware Workstation Player v16.1.1
 > Note: I had to use VMware due to some technical difficulties during development and therfore not required to run the application
 ## Technical Approach
