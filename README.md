@@ -4,25 +4,27 @@
 ## High Level/Non-Functional Requirments
 ### High Level Requirments
 - Setting up the GUI
-  - Allows for the user to have an easy to understand interface for interacting with Docker
+	- Allows for the user to have an easy-to-understand interface for interacting with Docker.
 - Opening/Reading Files
-  - Allows users to select a project file
-  - Application reads the file and identifies languages and technologies used
-- Communicate with Docker
-  - Application sends docker commands on behalf of the user
-  - This involves running, managing, and deleting containers and images
+  - Allows users to select a project file.
+  - Application reads the file and identifies languages and technologies used.
+- Communicate with Docker.
+  - Application sends docker commands on behalf of the user.
+  - This involves running, managing, and deleting containers and images.
 - Manage Containers
-  - Displays a list of containers so users know whats currently running
-  - Selecting a container gives the option for the user to delete a container
+  - Displays a list of containers so users know what’s currently running.
+  - Selecting a container gives the option for the user to delete a container.
 - PhP/Java/C# Support
   - Allows the user to make containers for PhP, Java, and C# applications
+
 ### Non-Functional Requirments
 - Manage Images
-  - Allows the user to manage multiple containers
-  - Allows for the use of multiple IDE's and other technologies
-- Prefrence Settings
-  - Allows the user to use a prefered IDE for specific languages
-  - Can also be used for prefered Database services
+  - Allows the user to manage multiple containers.
+  - Allows for the use of multiple IDE's and other technologies.
+- Preference Settings
+  - Allows the user to use a preferred IDE for specific languages.
+  - Can also be used for preferred Database services.
+
 ## Technologies
 - Docker Desktop v3.2.2
 > Note: This version of Docker was built to work for Windows, allowing for PowerShell to run docker.
