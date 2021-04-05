@@ -8,7 +8,7 @@
 - Opening/Reading Files
   - Allows users to select a project file
   - Application reads the file and identifies languages and technologies used
- - Communicate with Docker
+- Communicate with Docker
   - Application sends docker commands on behalf of the user
   - This involves running, managing, and deleting containers and images
 - Manage Containers
